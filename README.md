@@ -26,12 +26,12 @@ A smart rubber band sentry gun that can operate in both manual and automatic mod
 - Press the Mode Button to toggle between Manual and Auto modes
 - Serial monitor displays current mode
 
-# Manual Mode
+### Manual Mode
 - Rotary Encoder: Control aim servo position (0-180°)
 - Encoder Button: Fire rubber band
 - Full manual control over aiming and firing
 
-# Auto Mode
+### Auto Mode
 - Automatic Scanning: Aim servo automatically sweeps back and forth
 - Motion Detection: PIR sensor detects targets
 - Auto-Fire: Automatically fires when motion is detected
