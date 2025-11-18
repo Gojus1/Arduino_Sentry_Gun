@@ -1,6 +1,9 @@
 # Arduino_Sentry_Gun
 A smart rubber band sentry gun that can operate in both manual and automatic modes, featuring motion detection and precise aiming control.
 
+IMG_2231.jpeg
+![Preview](IMG_2231.jpeg)
+
 ## Features
 - Dual Operation Modes:
 - Manual Mode: Full control over aiming with rotary encoder
